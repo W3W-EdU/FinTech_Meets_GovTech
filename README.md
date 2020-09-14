@@ -15,26 +15,24 @@ PayIt uses the AWS GovCloud to store user’s information securely in what they 
 ## *Landscape*
 PayIt is in a unique position between the overlapping realms of FinTech and GovTech. Within FinTech, PayIt belongs fits into the billing and payments domain. Online billing and payments have been a rapidly evolving domain in the past ten years. Payment technologies are being developed by mobile phone companies, banks, credit card companies, other innovative apps and even social media platforms. Several cell phone companies such as Apple and Google created a wallet for mobile payments and records allowing the easy purchase and storage of plane or concert tickets. Online and mobile payments have become more and more secure with the use of multi-factor authentication and the newest method, biometric authentication. Automatic payments from household bills to person to person, have become easy and a part of daily life. Although there are many established and successful payment platforms that work with government services, such as Aliant, Stripe, PayPal, Visa and sometimes other self-made technologies from governments in this domain, PayIt solely focuses on GovTech and the regulations, requirements, mandates and citizen concerns that come with working with the government.
 ## *Results*
-What has been the business impact of this company so far?
-Some of the core metrics used Number of payments
-Amount of money processed
-Volume/Value of stock
-App Downloads/month
-Amount of money in startup funding
-How is your company performing relative to competitors in the same domain? 
+PayIt is interrupting the way government does business and how it interacts with its citizens. Giving citizens a faster, pleasant, helpful and more efficient experience. Companies in this domain use several core metrics to measure success. One of these key performance measures is the total payment volume which gives the total value of transactions completed within a given amount of time. Another way to calculate this metric is to add the total amount of money processed by the company. Though, some companies may regard the total number of transactions more valuable when first gaining traction. The second metric often used is the total active customer accounts. This measure is used differently among established versus newer organizations. Newer organizations might find app downloads per month to be more valuable when starting out. The last measure commonly used by payment companies is the number of payment transactions per active account.
+
+It is hard to determine how PayIt is doing relative to competitors in this domain as other companies are not limited to providing services for government. PayIt also hides their share of the business from competitors. Compared to other companies in this domain, PayIt is still young and has a lot of room for growth and expansion in the government sector. PayIt has won multiple awards in GovTech including the top 100 in GovTech for the past 4 years. Several of the local and state agencies using PayIt have also won awards for their innovation in payments.
 ## *Recommendations*
 I would suggest this company expand into different areas and functions of government, especially internal processes. Understanding the internal processes of government can help to refine the external offerings. This service would help increase efficiency and security within finance departments of government. There are so many requirements in government with cash handling. If PayIt could slowly develop services to function as the finance department to collect and record payments across departments, there would be a lot more accountability for how money is collected and deposited. They could also manage the way money is budgeted, managed and invested.
 
 One way to make this new beneficial service possible would be to use block chain. This company could use block chain to help with certain types of requirements and bureaucratic processes. One example is that certain types of financial processes require signatures from multiple levels of management to proceed often slowing down the transaction for up to a week or more. Block chain would allow the process to run smoothly as every step of the process would be automaticly recorded as soon as the approver makes the click. Another example is licensing across agencies that need signatures back and forth across organizations. A person could pay for a permitting service in one location on the PayIt app and block chain would make it possible to get approval from the city and county and distribute the payments to each. The customer would only need to make a selection for the type of permits and make the payment in one place while PayIt would do all of the background work to record approvals.
 ### Addendum
-[TechCrunch](https://techcrunch.com/2019/03/28/payit-a-payments-platform-designed-for-public-services-raises-100m-from-insight-partners/)
+[TechCrunch: PayIt, a payments platform designed for public services, raises $100M+ from Insight Partners](https://techcrunch.com/2019/03/28/payit-a-payments-platform-designed-for-public-services-raises-100m-from-insight-partners/)
 
-[CrunchBase](https://www.crunchbase.com/organization/payit)
+[CrunchBase Organization Profile](https://www.crunchbase.com/organization/payit)
 
-[PayIt Website](https://payitgov.com/about-us/)
+[PayItgov.com](https://payitgov.com/about-us/)
 
-[Cardknox](https://www.cardknox.com/white-papers/payment-methods-history-and-future/)
+[Payment Methods: A Brief History and a Look to the Future](https://www.cardknox.com/white-papers/payment-methods-history-and-future/)
 
-[FedNow](https://www.frbservices.org/financial-services/fednow/trending-world-faster-instant-payments.html)
+[What’s trending in the world of faster and instant payments?](https://www.frbservices.org/financial-services/fednow/trending-world-faster-instant-payments.html)
 
-[YouTube Interview](https://www.youtube.com/watch?v=z9fmgG9EjbY&t=320s)
+[PayIt: Missouri Most Funded Tech Startup](https://www.youtube.com/watch?v=z9fmgG9EjbY&t=320s)
+
+[Key Metrics: How PayPal Boosts Transaction Volume](https://www.fool.com/investing/general/2016/03/28/key-metrics-how-paypal-boosts-transaction-volume.aspx)
