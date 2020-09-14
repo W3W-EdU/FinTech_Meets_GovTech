@@ -2,7 +2,7 @@
 ---
 ## *Overview and Origin*
 PayIt was founded in 2013 by John Thomson, CEO and Michael Plunkett, COO in Kansas City Missouri. The idea for PayIt came about when Thomson went online to make a payment to renew his vehicle registration at the DMV. He was unable to make the transaction on their outdated website and found himself waiting in line at a DMV location. In an interview he said, 
-<“This should be difference. It should be more modern, more convenient, more connected, more proactive. There should just be less friction when doing business with government.”>
+>*“This should be different. It should be more modern, more convenient, more connected, more proactive. There should just be less friction when doing business with government.”*
 He says that he thought about how the burden of figuring everything out is on the citizen, and he wanted to create a solution to make the citizen more connected to government.
 They raised over $104 million with most coming from a single investor, Insight Venture Partners.
 ## *Business Activities*
@@ -25,8 +25,13 @@ I would suggest this company expand into different areas and functions of govern
 One way to make this new beneficial service possible would be to use block chain. This company could use block chain to help with certain types of requirements and bureaucratic processes. One example is that certain types of financial processes require signatures from multiple levels of management to proceed often slowing down the transaction for up to a week or more. Block chain would allow the process to run smoothly as every step of the process would be automaticly recorded as soon as the approver makes the click. Another example is licensing across agencies that need signatures back and forth across organizations. A person could pay for a permitting service in one location on the PayIt app and block chain would make it possible to get approval from the city and county and distribute the payments to each. The customer would only need to make a selection for the type of permits and make the payment in one place while PayIt would do all of the background work to record approvals.
 ### Addendum
 [TechCrunch](https://techcrunch.com/2019/03/28/payit-a-payments-platform-designed-for-public-services-raises-100m-from-insight-partners/)
+
 [CrunchBase](https://www.crunchbase.com/organization/payit)
+
 [PayIt Website](https://payitgov.com/about-us/)
+
 [Cardknox](https://www.cardknox.com/white-papers/payment-methods-history-and-future/)
+
 [FedNow](https://www.frbservices.org/financial-services/fednow/trending-world-faster-instant-payments.html)
+
 [YouTube Interview](https://www.youtube.com/watch?v=z9fmgG9EjbY&t=320s)
